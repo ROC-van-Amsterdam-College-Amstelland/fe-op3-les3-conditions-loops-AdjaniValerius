@@ -1,5 +1,6 @@
 //javascript code
 
+
 function vermedigvuldigen() {
 
     var number1= parseInt(prompt ("myNumber1"));
@@ -14,7 +15,6 @@ function vermedigvuldigen() {
         document.getElementById("antwoord").innerHTML= (number1 + number2)
 
 }
-
 
 function kleiner() {
     document.getElementById("resultaat").style.fontSize = "50px";
@@ -46,7 +46,6 @@ function delen() {
         document.getElementById("antwoord").innerHTML= (number1 + number2)
 
 }
-
 
 function kleiner() {
     document.getElementById("resultaat").style.fontSize = "50px";
